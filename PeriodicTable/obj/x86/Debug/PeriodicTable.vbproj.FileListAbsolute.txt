@@ -1,0 +1,68 @@
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.xml
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Resources.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.exe
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.xml
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.pdb
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.LangPage.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.UserMenu.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmType.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmInfo.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Introduct.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.quiz.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.exe
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.xml
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.pdb
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmInfo.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmType.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.quiz.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Introduct.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.LangPage.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Resources.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.UserMenu.resources
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.vbproj.GenerateResource.Cache
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.xml
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gihan Wijesekara\Desktop\vb project\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.vbprojResolveAssemblyReference.cache
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.exe
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.xml
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.pdb
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.xml
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmInfo.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmType.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.quiz.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Introduct.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.LangPage.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Resources.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.UserMenu.resources
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ITLAB\Desktop\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.atomicReactivity.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.exe
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.xml
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.pdb
+F:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+F:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+F:\SLIITSt\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.xml
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.atomicReactivity.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmInfo.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.CheckElmType.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.quiz.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Introduct.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.LangPage.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.Resources.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\PeriodicTable.UserMenu.resources
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Debug\GenerateResource.write.1.tlog

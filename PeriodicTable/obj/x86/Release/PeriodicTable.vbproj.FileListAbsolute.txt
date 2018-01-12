@@ -1,0 +1,16 @@
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.exe
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.pdb
+D:\SLIITSt\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.xml
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.CheckElmInfo.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.CheckElmType.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.Introduct.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.LangPage.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.Startpage.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.Resources.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.UserMenu.resources
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\GenerateResource.read.1.tlog
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\GenerateResource.write.1.tlog
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.exe
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.xml
+D:\SLIITSt\PeriodicTable\PeriodicTable\obj\x86\Release\PeriodicTable.pdb

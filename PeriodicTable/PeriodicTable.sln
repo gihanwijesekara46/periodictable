@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PeriodicTable", "PeriodicTable.vbproj", "{59BB4470-31C9-487D-B7DB-0C9A657ED6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BB4470-31C9-487D-B7DB-0C9A657ED6DA}.Debug|x86.ActiveCfg = Debug|x86
+		{59BB4470-31C9-487D-B7DB-0C9A657ED6DA}.Debug|x86.Build.0 = Debug|x86
+		{59BB4470-31C9-487D-B7DB-0C9A657ED6DA}.Release|x86.ActiveCfg = Release|x86
+		{59BB4470-31C9-487D-B7DB-0C9A657ED6DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
